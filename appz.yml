@@ -1,7 +1,7 @@
 app:
   name: mongo
   code: MONGO
-  notify: <mail>
+  notify: hkrishnan@ecloudcontrol.com
 build:
   version: 5.0
   env: DEV
@@ -10,7 +10,7 @@ build:
   image_template: mongo-5.0
   
 deploy:
-  context: <context>
+  context: Hari2833374ecloud/Dev
   type: statefulset
   replicas: 3
   port:
