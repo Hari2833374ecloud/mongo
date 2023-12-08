@@ -51,4 +51,4 @@ properties:
   MONGO_BACKUP_DAYS: 7
   MONGO_BACKUP_TIME: 21
   MASTER_ENABLE: 'yes'
-  revision : 2
+  revision : 3
