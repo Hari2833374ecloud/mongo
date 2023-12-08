@@ -10,7 +10,7 @@ build:
   image_template: mongo-5.0
   
 deploy:
-  context: Hari2833374ecloud/Dev
+  context: Hari2833374ecloud/DEV
   type: statefulset
   replicas: 3
   port:
