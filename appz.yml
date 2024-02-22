@@ -1,5 +1,5 @@
 app:
-  name: mongo
+  name: mongodb
   code: MONGO
   notify: hkrishnan@ecloudcontrol.com
 build:
